@@ -81,7 +81,7 @@
 
                 <div class="home-content__buttons">
                     <a href="#works" class="smoothscroll btn btn--stroke">
-                        Federação
+                        Atibaia II
                     </a>
                     <a href="#about" class="smoothscroll btn btn--stroke">
                         Kung Fu
