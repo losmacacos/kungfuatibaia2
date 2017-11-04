@@ -124,7 +124,7 @@
         <div class="row narrow section-intro has-bottom-sep">
             <div class="col-full text-center">
                 <h3>História</h3>
-                <h1>Como Surgiu o Kung FU</h1>
+                <h1>Como Surgiu o Kung Fu</h1>
                 <p class="lead">O Kung Fu não é simplesmente conhecido como uma forma saudável de exercícios físicos e sistema de defesa pessoal altamente eficiente, mas também mostra ser um benefício mental e espiritual ao praticante.</p>
             </div>
         </div>
@@ -210,16 +210,10 @@
                             <h3>Origem da palavra KUNG FU</h3>
                             
                         </div>
-                        <div class="timeline__desc">	
+                        <div class="timeline__desc">    
                             <p>“Kung Fu” é uma antiga expressão que, no dialeto Cantonês, significava "trabalho intensivo" ou "jornada de trabalho", dependendo da forma que era encontrado nos textos antigos. A palavra Kung Fu expandiu-se pelo mundo através do povo Cantão, que tinha fácil acesso ao mar, graças à sua posição geográfica, difundindo sua arte na Europa, África, Oceania e América.</p>
                         </div>
                     </div>
-
-                </div>
-            </div>
-
-            <div class="col-six tab-full right">
-                <div class="timeline">
 
                     <div class="timeline__block">
                         <div class="timeline__bullet"></div>
@@ -230,6 +224,28 @@
                         <div class="timeline__desc">
                             <p>A criação da Liga Nacional Garra de Águia de Kung fu surgiu da necessidade de fazer um intercâmbio de treinamentos e de unir o grupo em eventos em todo o Brasil. Os mestres, professores e alunos que treinam o Estilo Garra de Águia no Brasil têm um maior suporte em treino e eventos sob a coordenação do Grão mestre Edilson Moraes, hoje em dia.
                             A Liga Garra de Águia é uma entidade que conta com cerca de mais de 200 professores e instrutores ministrando aulas em várias regiões do Brasil e, seu objetivo é formar e instruir seus filiados e desenvolver o estilo no Brasil.</p>
+                        </div>
+                    </div> <!-- end timeline__block -->
+
+                </div>
+            </div>
+
+            <div class="col-six tab-full right">
+                <div class="timeline">
+
+                    <div class="timeline__block">
+                        <div class="timeline__bullet"></div>
+                        <div class="timeline__header">
+                            <h3>Grão Mestre Edilson Moraes</h3>
+                            <h5>Liga Garra de Águia</h5>
+                        </div>
+                        <div class="timeline__desc">
+                            <p>Nascido em 1966, na cidade de São Paulo – Brasil, iniciou sua prática no Kung fu aos 12 anos em Setembro de 1978, na União Garra de Águia do Brasil, onde se formou Mestre do estilo.
+                            Durante o Campeonato Mundial de Kung fu Brasil 2003, foi elevado à categoria de Mestre 6º Dueen pelo Grão Mestre Li Wing Kay.
+                            Com a fundação da Associação Lapa há 22 anos, e ainda a pleno vapor, em 1996 assume a academia Matriz (conhecida também como Cidade Ademar).
+                            Em 2010 completou 32 anos de treinamentos interruptos, com muito esforço e dedicação.
+                            Hoje responsável por mais de 200 profissionais professores e instrutores, em oito Estados Brasileiros, na maioria destes são Capitais e cidades litorâneas, também com representantes em outros Países como o mais presente na Argentina.
+                            É presidente da Federação Paulista de Kuoshu Kung fu Tradicional – FPKT. Fundou Liga Nacional Garra de Águia, e a Confederação Brasileira de Artes Marciais Chinesas – C.B.A.M.C., com intuito de divulgar e desenvolver o Kung fu e dar o devido valor aos Mestres, Professores e Instrutores o qual todos merecem.</p>
                         </div>
                     </div> <!-- end timeline__block -->
 
@@ -624,10 +640,10 @@
                     <article class="col-block">
                                 
                         <div class="blog-date">
-                            <a href="blog-single.html">Academia Simmus</a>
+                            <p>Academia Simmus</p>
                         </div>  
                         
-                        <h2 class="h01"><a href="blog-single.html">Terça e Quinta</a></h2>
+                        <h2 class="h01"><p>Terça e Quinta</p></h2>
                         <p>
                         <br />Treinos de Boxe Chinês.
                         <br />Horário: das 21:00 às 22:00 horas
@@ -642,10 +658,10 @@
                     <article class="col-block">
                                 
                         <div class="blog-date">
-                            <a href="blog-single.html">Academia Longevidade</a>
+                            <p>Academia Longevidade</p>
                         </div>  
                         
-                        <h2 class="h01"><a href="blog-single.html">Segunda, Quarta e Sexta</a></h2>
+                        <h2 class="h01"><p>Segunda, Quarta e Sexta</p></h2>
                         <p>
                         <br />Treinos de Kung Fu e Boxe Chinês.
                         <br />Horário: das 19:30 às 21:00 horas
@@ -674,8 +690,8 @@
             <div class="col-full">
                 <h3>Contato</h3>
                 <h1>Venha nos Conhecer!</h1>
+                <h1>Faça uma aula Experimental.</h1>
                 
-                <p class="lead">Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam Ut laborum non est in officia.</p>
             </div>
         </div>
 
@@ -788,7 +804,7 @@
             <div class="col-twelve">
                 <div class="copyright">
                     <span>© Copyright Losmacacos 2017</span> 
-                    <span>Design by Losmacacos</span>	
+                    <span>Design by Losmacacos</span>   
                 </div>
 
                 <div class="go-top">
