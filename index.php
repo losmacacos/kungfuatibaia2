@@ -243,9 +243,9 @@
                             <p>Nascido em 1966, na cidade de São Paulo – Brasil, iniciou sua prática no Kung fu aos 12 anos em Setembro de 1978, na União Garra de Águia do Brasil, onde se formou Mestre do estilo.
                             Durante o Campeonato Mundial de Kung fu Brasil 2003, foi elevado à categoria de Mestre 6º Dueen pelo Grão Mestre Li Wing Kay.
                             Com a fundação da Associação Lapa há 22 anos, e ainda a pleno vapor, em 1996 assume a academia Matriz (conhecida também como Cidade Ademar).
-                            Em 2010 completou 32 anos de treinamentos interruptos, com muito esforço e dedicação.
-                            Hoje responsável por mais de 200 profissionais professores e instrutores, em oito Estados Brasileiros, na maioria destes são Capitais e cidades litorâneas, também com representantes em outros Países como o mais presente na Argentina.
-                            É presidente da Federação Paulista de Kuoshu Kung fu Tradicional – FPKT. Fundou Liga Nacional Garra de Águia, e a Confederação Brasileira de Artes Marciais Chinesas – C.B.A.M.C., com intuito de divulgar e desenvolver o Kung fu e dar o devido valor aos Mestres, Professores e Instrutores o qual todos merecem.</p>
+                            Em 2010 completou 32 anos de treinamentos ininterruptos, com muito esforço e dedicação.
+                            Hoje é responsável por mais de 200 profissionais professores e instrutores, em oito Estados Brasileiros, na maioria destes são Capitais e cidades litorâneas, também com representantes em outros Países com o mais presente na Argentina.
+                            É presidente da Federação Paulista de Kuoshu Kung fu Tradicional – FPKT. Fundou a Liga Nacional Garra de Águia de Kung Fu, e a Confederação Brasileira de Artes Marciais Chinesas – C.B.A.M.C., com o intuito de divulgar e desenvolver o Kung fu e dar o devido valor aos Mestres, Professores e Instrutores os quais todos merecem.</p>
                         </div>
                     </div> <!-- end timeline__block -->
 
@@ -343,7 +343,7 @@
                                 Andressa Nardini
                             </h3>
                             <p class="item-folio__cat">
-                                Instrutora Kung Fu e Boxe Chines
+                                Instrutora Kung Fu e Boxe Chinês
                             </p>
                         </div>
 
